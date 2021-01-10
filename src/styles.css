@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  height: 100vh;
+  height: 120vh;
   display: grid;
   grid-template-columns: repeat(3, auto);
   place-items: center;
@@ -28,6 +28,7 @@ p.date {
   text-align: center;
   font-size: 0.7em;
   text-transform: uppercase;
+  padding-bottom: 0.5em;
 }
 h3 {
   margin: 0;
@@ -49,9 +50,6 @@ body {
 p.date {
   text-align: left;
   margin: 0;
-}
-
-h3 {
 }
 
 p.desc {
