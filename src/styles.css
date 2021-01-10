@@ -10,18 +10,18 @@ body {
   display: grid;
   grid-template-columns: repeat(3, auto);
   place-items: center;
-  background: lightblue;
+  background: #88b2cc;
   grid-gap: 2em;
 }
 
 .card {
-  background: white;
+  background: #e7d4c0;
 }
 span {
   height: 100px;
   display: block;
   width: 100%;
-  background: #71a6b8;
+  background: #e98973;
 }
 
 p.date {
