@@ -17,6 +17,10 @@ body {
 .card {
   background: #e7d4c0;
 }
+.card,
+span {
+  border-radius: 3px;
+}
 span {
   height: 100px;
   display: block;
